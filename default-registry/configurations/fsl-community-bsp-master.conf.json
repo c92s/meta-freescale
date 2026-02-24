@@ -136,6 +136,7 @@
                         {"name": "machine/imx93-14x14-lpddr4x-evk", "description": "NXP i.MX 93 14x14 EVK with LPDDR4X"},
                         {"name": "machine/imx93-9x9-lpddr4-qsb",    "description": "NXP i.MX93 9x9 QSB with LPDDR4"},
                         {"name": "machine/imx943-19x19-lpddr4-evk", "description": "NXP i.MX 943 19x19 EVK with LPDDR4"},
+                        {"name": "machine/imx943-19x19-lpddr5-evk", "description": "NXP i.MX 943 19x19 EVK with LPDDR5"},
                         {"name": "machine/imx95-19x19-verdin",      "description": "Toradex i.MX 95 19x19 Verdin Evaluation Kit"},
                         {"name": "machine/ls1012afrwy",             "description": "NXP QorIQ LS1012AFRWY"},
                         {"name": "machine/ls1012ardb",              "description": "NXP QorIQ LS1012ARDB"},

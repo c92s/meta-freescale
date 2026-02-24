@@ -40,6 +40,7 @@ UBOOT_CONFIG_IMAGE_FSTYPES[sd]     = "sdcard"
 UBOOT_CONFIG_IMAGE_FSTYPES[sd-ecc] = "sdcard"
 
 ATF_PLATFORM = "imx94"
+OEI_CONFIGS = "ddr"
 OEI_CORE = "m33"
 
 IMXBOOT_VARIANTS = "alt jailhouse rpmsg netc netc_reset netc_standalone"
